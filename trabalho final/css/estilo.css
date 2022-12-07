@@ -1,0 +1,750 @@
+.container{
+margin-left: 26px;
+flex-direction: row;
+width: 94%;
+height: 5vh;
+background-color: whitesmoke;
+margin-top: 26px;
+display: flex;
+justify-content: flex-start;
+align-items: stretch;
+
+
+
+}
+
+
+#maybelogo{
+	width: 25%;
+	height: 2vh;
+	background-color: darkred;
+
+}
+
+#rectangle{
+	   
+	width: 100%;
+	height: 5vh;
+	background-color: whitesmoke;
+	margin-left:670px;
+	flex-flow: row nowrap;
+	display: flex;
+	justify-content: flex-end;
+	
+	
+}
+
+#rectangleone{
+	width: 10%;
+	height: 5vh;
+	background-color: darkred;
+	margin-right: 2%;
+
+	
+	
+}
+
+#rectangletwo{
+	width: 10%;
+	height: 5vh;
+	background-color: darkred;
+	margin-right: 2%;
+
+
+	
+
+}
+
+#rectangletres{
+	width: 10%;
+	height: 5vh;
+	background-color: darkred;
+	
+}
+
+.imagebase{
+	width: 94%;
+	height: 50vh;
+	background-color: dimgray;
+	margin-top: 1px;
+	margin-left: 26px;
+}
+
+.squarebase{
+	width: 94%;
+	height: 30vh;
+	margin-left: 26px;
+	background-color: white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-top: 26px;
+}
+
+#squareone{
+	width: 19%;
+	height: 20vh;
+	background-color: pink;
+margin-left: 34px;
+margin-right: 34px;
+
+
+}
+
+
+
+#squaretwo{
+	width: 19%;
+	height: 20vh;
+	background-color: pink;
+margin-left: 34px;
+margin-right: 34px
+}
+
+#squaretres{
+	width: 19%;
+	height: 20vh;
+	background-color: pink;
+	margin-left: 34px;
+	margin-right: 34px;
+}
+
+#squarefour{
+	width: 19%;
+	height: 20vh;
+	background-color: pink;
+	margin-left: 34px;
+	margin-right: 34px;
+}
+
+
+.textcolumn{
+	width: 94%;
+	height: 80vh;
+	margin-left: 26px;
+	background-color: whitesmoke;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-top: 26px;
+}
+
+#columnone{
+	width: 30%;
+	height: 65vh;
+	background-color: darkred;
+	margin-left: 34px;
+	margin-right: 34px;
+}
+
+#columnoftext{
+	width: 40%;
+	height: 65vh;
+	background-color: white;
+	margin-left: 4px;
+	margin-right: 34px;
+}
+
+#sidetxt{
+	width: 30%;
+	height: 65vh;
+	background-color: darkred;
+	margin-left: 24px;
+	margin-right: 24px;
+}
+
+#heyjpg{
+	width: 100%;
+	height: 100%;
+}
+
+#alemanha{ width: 100%;
+	height: 4vh;
+
+}
+
+#espanha{
+	width: 100%;
+	height: 4vh;
+
+}
+
+#japao{
+	width: 100%;
+	height: 4vh;
+}
+
+#aleperdeu{
+	width: 100%;
+	height: 20vh;
+
+
+}
+
+#jvss{
+	width: 100%;
+	height: 20vh;
+}
+
+#son{
+	width: 100%;
+	height: 20vh;
+}
+
+#textcoreia{
+	font-family: barlow, sans sans-serif;
+	display: flex;
+	margin-left: 13px;
+	justify-content: center;
+	flex-direction: row;
+}
+
+#jvscr{
+	width: 100%;
+	height: 20vh;
+}
+
+#textjvscr{
+	font-family: barlow, sans sans-serif;
+	font-size: 13px;
+	float: left;
+
+}
+
+#textalemanha{
+	font-family: barlow, sans sans-serif;
+	float: left;
+
+}
+
+#germany{
+	width: 40%;
+	height: 10vh;
+flex-direction: row;}
+
+.help{
+	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+	
+	
+}
+#germanytext{
+	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 16px;
+	margin: 3px;
+}
+
+.scrr{
+	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+}
+
+#crg{
+	width: 40%;
+	height: 10vh;
+}
+
+#txtcrg{
+	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 20px;
+	margin: 3px;
+}
+
+
+.scrro{
+	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+
+}
+
+
+#js{
+	width: 40%;
+	height: 10vh;
+}
+
+#txtjs{
+	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 12px;
+	margin: 3px;
+}
+ .groupe{
+ 	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #gpE{
+ 	width: 40%;
+ 	height: 10vh;
+ }
+
+ #gptxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 17px;
+	margin: 3px;
+ }
+
+ .dnv{
+ 	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #dnvimg{
+ 	width:40%;
+ 	height: 10vh;
+ }
+
+ #dnvtxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 17px;
+	margin: 3px;
+ }
+
+ .lastdiv{
+ 	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #lastimg{
+ 	width:40%;
+ 	height: 10vh;
+ }
+
+ #last{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 12px;
+	margin: 3px;
+ }
+
+ .notice{
+ 	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #imgwyw{
+ 	width: 40%;
+ 	height: 10vh;
+ }
+
+ #wyw{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 12px;
+	margin: 3px;
+ }
+
+ .high{
+ 	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #ligh{
+ 	width: 40%;
+ 	height: 10vh;
+ }
+
+ #hightxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 18px;
+	margin: 3px;
+ }
+
+ .soccer{
+    width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #socimg{
+ 	width: 40%;
+ 	height: 10vh;
+ }
+
+ #socwrite{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 12px;
+	margin: 3px;
+ }
+
+ .apostas{
+ 	 width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #img{
+ 	width: 40%;
+ 	height: 10vh;
+ }
+
+ #writetxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 17px;
+	margin: 3px;
+ }
+ .lost{
+width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+ #loseimg{
+ 	width: 40%;
+ 	height: 10vh
+ }
+
+ #losetxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 17px;
+	margin: 3px;
+ }
+
+ .curiosidades{
+ 	width: 100%;
+	height: 10vh;
+	background-color:white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-bottom: 12px;
+ }
+
+
+ #curiosimg{
+ 	width: 40%;
+ 	height: 10vh
+ }
+
+ #curiostxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 15px;
+	margin: 3px;
+ }
+
+ @media (max-width: 760px){
+ 	.container{
+margin-left: 26px;
+flex-direction: row;
+width: 94%;
+height: 5vh;
+background-color: whitesmoke;
+
+display: flex;
+justify-content: flex-start;
+align-items: stretch;
+} 
+ 	#maybelogo{
+ 		width: 100%;
+ 		height: 2vh;
+ 	}
+ 	#rectangle{
+	   
+	width: 200%;
+	height: 5vh;
+	background-color: whitesmoke;
+	
+	flex-flow: row nowrap;
+	display: flex;
+	justify-content: flex-end;
+	
+	
+}
+
+#rectangleone{
+	width: 100%;
+	height: 5vh;
+	background-color: darkred;
+	
+}
+
+.squarebase{
+	padding-left: 4px ;
+	height: 80vh;
+	width: 100%;
+	background-color: white;
+	flex-flow: row wrap;
+	display: flex;
+	margin-top: 26px;
+}
+
+#squareone{
+	width: 45%;
+	height: 30vh;
+	background-color: pink;
+margin-left: 4px;
+margin-right: px;
+
+
+}
+#aleperdeu{
+	width: 100%;
+	height: 30vh;
+}
+#textalemanha{
+	font-family: barlow, sans sans-serif;
+	float: left;
+	margin-bottom: 96px;
+}
+
+
+
+#squaretwo{
+	width: 45%;
+	height: 30vh;
+	background-color: pink;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 12px;
+}
+
+#jvss{
+	width: 100%;
+	height: 30vh;
+}
+
+
+#squaretres{
+	width: 45%;
+	height: 30vh;
+	background-color: pink;
+	margin-left: 0px;
+	margin-right: 13px;
+	
+}
+#son{
+	width: 100%;
+	height: 30vh;
+}
+#squarefour{
+	width: 45%;
+	height: 30vh;
+	background-color: pink;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-right: 13px;
+	
+}
+
+#jvscr{
+	width: 100%;
+	height: 30vh;
+
+}
+
+.textcolumn{
+	width: 94%;
+	height: 33vh;
+	margin-left: 26px;
+	background-color: white;
+	flex-flow: row nowrap;
+	display: flex;
+	margin-top: 26px;
+}
+
+#columnone{
+	width: 60%;
+	height: 65vh;
+	background-color: darkred;
+	margin-left: 34px;
+	margin-right: 34px;
+}
+
+#columnoftext{
+	width: 100%;
+	height: 65vh;
+	background-color: white;
+	margin-left: 4px;
+	margin-right: 34px;
+}
+
+#sidetxt{
+	width: 0%;
+	height: 12vh;
+	background-color: darkred;
+	margin-left: 24px;
+	margin-right: 24px;
+}
+#germanytext{
+	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+}
+
+#txtcrg{
+	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+}
+
+
+
+
+#txtjs{
+	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+}
+ 
+
+ #gptxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+ }
+
+
+ #dnvtxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+ }
+
+ #columntxt{
+ 	font-family: barlow, sans sans-serif;
+	text-align: justify;
+	font-size: 18px;
+	margin: 3px;
+ }
+
+ #last{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0%;
+	
+	 margin-bottom: 399px;
+ }
+
+#columnone{
+	width: 0%;
+	height: 65vh;
+	background-color: darkred;
+	margin-left: 34px;
+	margin-right: 34px;
+}
+ 
+ 
+
+ #wyw{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+
+ }
+
+ 
+
+ 
+ #hightxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+ }
+
+ 
+
+ 
+
+ #socwrite{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+ }
+
+ 
+ 
+ #writetxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+ }
+ 
+
+ 
+ #losetxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+ }
+
+
+#rectangletwo{
+	width: 0%;
+	height: 5vh;
+	background-color: darkred;
+	margin-right: 2%;
+}
+
+#rectangletres{
+	width: 0%;
+	height: 5vh;
+	background-color: darkred;
+	
+}
+
+
+ 
+ #curiostxt{
+ 	font-family: barlow, sans sans-serif;
+	float: left;
+	font-size: 0px;
+	margin: 3px;
+ }
+}
